@@ -2,9 +2,19 @@
 
 Welcome to the central hub of Development Roadmaps! This repository is dedicated to providing structured pathways for learning and mastering various domains within the tech industry.
 
-## About
+## Overview
 
-Each branch within this repository is a meticulously crafted roadmap outlining the key topics, skills, and milestones you need to navigate through different fields of development. Our aim is to offer clear, accessible guides that cater to both beginners and experienced professionals looking to expand their horizons.
+This roadmap provides an illustrative journey through the various stages of game development. It serves as an educational resource, highlighting the core areas that every game developer should be familiar with.
+
+## Contents
+
+- **Game Mathematics**: The foundation of game mechanics and control.
+- **Game Engine**: The framework that supports the creation and development of a game.
+- **Game Physics**: Simulation of realistic environments within the game.
+- **Computer Graphics**: The art of digitally creating and manipulating visual content.
+- **Graphics API**: Bridging the game with the hardware of the device.
+- **Game AI**: Implementing intelligent behaviors in game characters and environments.
+- **Advanced Rendering**: Techniques for bringing 3D models to life on a 2D screen.
 
 ## Roadmaps Available
 
